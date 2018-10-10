@@ -5,8 +5,8 @@ class WxConfig(object):
     微信开发--基础配置
 
     """
-    AppID = 'wx7190581a36f3994c'  # AppID(应用ID)
-    AppSecret = '42c5bbafe26cab2b2fcd2b854ea436ad'  # AppSecret(应用密钥)
+    AppID = 'xxx'  # AppID(应用ID)
+    AppSecret = 'xxx'  # AppSecret(应用密钥)
 
     """微信网页开发域名"""
     AppHost = 'http://xxxxxx.com'
